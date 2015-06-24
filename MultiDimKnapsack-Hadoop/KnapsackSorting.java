@@ -1,6 +1,5 @@
 import java.io.IOException;
 import java.util.Iterator;
-
 import org.apache.hadoop.io.DoubleWritable;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
